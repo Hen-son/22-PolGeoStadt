@@ -3,25 +3,64 @@
 ‚Die Stadt erlaubt in besonderer Weise Einblick in die Maschinerie des globalen Kapitalismus‘ - so lässt sich eine grundlegende Idee zusammenfassen, auf der ein zentraler Strang einer politischen Geographie der Stadt basiert.
 
 
-## Sitzung am 19.4./20.04. -- Stadt als Linse
+## Sitzung am 26.04. -- Stadt als Linse
 
-In der ersten Sitzung zu diesem Block beginnen wir die Auseinandersetzung mit diesem Strang mit dem klassischen Plädoyer für eine „Soziologie der Stadt“ [@Haussermann13Thesen-z] und einer Neuformulierung durch Saskia Sassen: „Can the sociological study of cities produce scholarship and analytic tools that help us understand the broader social transformations under way today as it once did early in the preceding century?“ [@Sassen10The-city, 4]
+In der ersten Sitzung beginnen wir den Einstieg in die ‚Stadtforschung als Gesellschaftsanalyse‘ mit dem klassischen Plädoyer für eine „Soziologie der Stadt“ durch Hartmut Häussermann und Walter Siebel [-@Haussermann13Thesen-z]. Im Referat schauen wir auf eine aktuelle Neuformulierung dieser Idee durch Saskia Sassen: „Can the sociological study of cities produce scholarship and analytic tools that help us understand the broader social transformations under way today as it once did early in the preceding century?“ [@Sassen10The-city, 4]
+
+### Pflichtlektüre {.unlisted .unnumbered}
+- Häußermann, Hartmut und Walter Siebel. 2013[1978]. Thesen zur Soziologie der Stadt. *sub\\urban. zeitschrift für kritische stadtforschung* 1, Nr. 1, 101--118.
+
+### Referat {.unlisted .unnumbered}
+
+- Sassen, Saskia. 2010. The city: Its return as a lens for social theory. *City, Culture and Society* 1, Nr. 1: 3--11. doi: [10.1016/j.ccs.2010.04.003](https://doi.org/10.1016/j.ccs.2010.04.003).
 
 
-## Sitzung am 26.04./27.04. -- Planetary Urbanisation
+## Sitzung am 03.05. -- Planetary Urbanisation
 
-Die zweite Sitzung beschäftigt sich mit einer Weiterführung der Idee, die Stadt als Linse für das Verständnis kapitalistischer Vergesellschaftung zu benutzen. Eine solche Präzisierung haben Neil Brenner und Christian Schmidt unter dem Titel Planetary Urbanization vorgeschlagen. Insbesondere geht es dabei darum, konzeptionelle Ideen Henri Lefebvres für aktuelle Analysen fruchtbar zu machen. Wir beschäftigen uns mit Brenner und Schmids Vorschlag einer "neuen Epistemologie des Urbanen" [@Brenner15Towards] und mit einer kritischen Replik [@Walker15Building].
+Die zweite Sitzung beschäftigt sich mit einer Weiterführung der Idee, die Stadt als Linse für das Verständnis kapitalistischer Vergesellschaftung zu benutzen. Eine solche Präzisierung haben Neil Brenner und Christian Schmidt unter dem Titel *Planetary Urbanization* vorgeschlagen. Insbesondere geht es dabei darum, konzeptionelle Ideen Henri Lefebvres für aktuelle Analysen fruchtbar zu machen. Wir beschäftigen uns mit Brenner und Schmids Vorschlag einer „neuen Epistemologie des Urbanen“ [@Brenner15Towards] und mit einer kritischen Replik [@Walker15Building].
 
-## Sitzung am 03.05./04.05. -- Hintergrund: Lefebvre
+### Pflichtlektüre {.unlisted .unnumbered}
 
-Henri Lefebvres eigenständige und teils enigmatische Beschäftigung mit Raum als Werkzeug einer Gesellschaftsanalyse bildet eine wichtige Inspiration für das bisher Gelesene. In der dritten Sitzung setzen wir uns anhand von Ausschnitten aus seinem Buch "Revolution der Städte"  [@Lefebvre03The-Urba] und einem Kommentar [@Prigge91Die-Revo] intensiver damit auseinander.
+- Brenner, Neil und Christian Schmid. 2015. Towards a new epistemology of the urban? *City* 19, Nr. 2-3: 151--182. doi: [10.1080/13604813.2015.1014712](https://doi.org/10.1080/13604813.2015.1014712).
 
-## Sitzung am 10.05./11.05. -- Fallbeispiele
+### Referat {.unlisted .unnumbered}
+
+- Walker, Richard. 2015. Building a better theory of the urban: A response to ‚Towards a new epistemology of the urban?'. *City* 19, Nr. 2-3: 183--191. doi: [10.1080/13604813.2015.1024073](https://doi.org/10.1080/13604813.2015.1024073).
+
+## Sitzung am 10.05. -- Hintergrund: Lefebvre
+
+Henri Lefebvres eigenständige und teils enigmatische Beschäftigung mit Raum als Werkzeug einer Gesellschaftsanalyse bildet eine wichtige Inspiration für das bisher Gelesene. In der dritten Sitzung setzen wir uns anhand von Ausschnitten aus seinem Buch „Revolution der Städte“  [@Lefebvre03The-Urba] und einem Kommentar [@Prigge91Die-Revo] intensiver damit auseinander.
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Lefebvre, Henri. 2014. *Die Revolution der Städte*. Hg. von Klaus Ronneberger. Frankfurt am Main: Europäische Verlagsanstalt. (Kapitel „Von der Stadt zur verstädterten Gesellschaft“)
+
+### Referat {.unlisted .unnumbered}
+
+- Prigge, Walter. 1991. Die Revolution der Städte lesen. In: *Stadt-Räume*, hg. von Martin Wentz, 99--112. Köln: Kohlhammer.
+
+## Sitzung am 17.05. -- Fallbeispiele
 
 Was kann der konkrete Gewinn sein, Stadt als Linse für eine Analyse der gegenwärtigen kapitalistischen Vergesellschaftung zu verwenden? Wir beschäftigen uns mit zwei aktuellen Anwendungsbeispielen: _Start Up Urbanismus_ [@Rossi17Start-up] und die Finanzialisierung städtischer Klimaanpassung [@Grubbauer20Stadte-d].
 
-## Sitzung am 17.05./18.05. -- Politische Konsequenzen I - Stadt als Ansatzpunkt für Kapitalismuskritik
+### Pflichtlektüre {.unlisted .unnumbered}
 
-Was bedeuten die Analysen für praktische politische Intervention? Die Stadt erscheint in dieser Perspektive nicht nur als hervorragende Linse für die Analsye, sondern auch als prädestinierter Einsatzpunkt für emanzipatorische Politik. Entsprechend nimmt die Bedeutung von städtischen sozialen Bewegungen zu [@Mayer14Soziale]. Ausgeführt hat dieses Argument insbesondere David Harvey [@Harvey13Die-Kunst].
+- Rossi, Ugo und Arturo Di Bella. 2017. Start-up urbanism: New York, Rio de Janeiro and the global urbanization of technology-based economies. *Environment and Planning A* 49, Nr. 5: 999--1018. doi: [10.1177/0308518x17690153](https://doi.org/10.1177/0308518x17690153).
 
+### Referat {.unlisted .unnumbered}
 
+- Grubbauer, Monika und Hanna Hilbrandt. 2020. Städte des Globalen Südens im Fokus von Klima- und Entwicklungsfinanz. *sub\\urban. zeitschrift für kritische stadtforschung* 8, Nr. 1/2: 137--162. doi: [10.36900/suburban.v8i1/2.506](https://doi.org/10.36900/suburban.v8i1/2.506).
+
+## Sitzung am 24.05. -- Politische Konsequenzen I: Stadt als Ansatzpunkt für Kapitalismuskritik
+
+Was bedeuten die Analysen für praktische politische Intervention? Die Stadt erscheint in dieser Perspektive nicht nur als hervorragende Linse für die Analyse, sondern auch als prädestinierter Einsatzpunkt für emanzipatorische Politik. Entsprechend nimmt die Bedeutung von städtischen sozialen Bewegungen zu [@Mayer14Soziale]. Ausgeführt hat dieses Argument insbesondere David Harvey [@Harvey13Die-Kunst].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Mayer, Margit. 2014. Soziale Bewegungen in Städten -- städtische soziale Bewegungen. In: *Stadt und soziale Bewegungen*, hg. von Norbert Gestring, Renate Ruhne, und Jan Wehrheim, 25--42. Wiesbaden: Springer. doi: [10.1007/978-3-658-01398-1_2](https://doi.org/10.1007/978-3-658-01398-1_2).
+
+### Referat {.unlisted .unnumbered}
+
+- Harvey, David. 2013. Die Kunst der Rente. In: *Rebellische Städte. Vom Recht auf Stadt zur urbanen Revolution*, 163--201. Berlin: Suhrkamp.
+
+\pagebreak

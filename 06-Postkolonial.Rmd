@@ -1,21 +1,51 @@
 # Stadt als Objekt postkolonialer Erfahrung
 
-Ein dritter Vorschlag im Schnittfeld von politischer Geographie und Stadt hebt auf die besondere Rolle der Stadt als Objekt postkolonialer Erfahrung ab. Die Art, wie Städte gebaut werden, wie sich städtische Prozesse derzeit entfalten, aber auch die Begriffe, mit denen wir die Stadt lesbar machen -- in allen Fällen ist die historische koloniale Situation und die Prädisposition westlicher Konzepte prägend. 
+Ein dritter Vorschlag im Schnittfeld von politischer Geographie und Stadt hebt auf die besondere Rolle der Stadt als Objekt postkolonialer Erfahrung ab. Die Art, wie Städte gebaut werden, wie sich städtische Prozesse derzeit entfalten, aber auch die Begriffe, mit denen wir die Stadt lesbar machen -- in allen Fällen ist die historische koloniale Situation und die Prädisposition westlicher Konzepte prägend.
 
-## Sitzung am 21.06./22.06. -- Eurozentrische Prämissen in der Stadtforschung
+## Sitzung am 28.06. -- Eurozentrische Prämissen in der Stadtforschung
 
 Die kritische Auseinandersetzung mit impliziten Voreinstellungen war ein fruchtbarer Impuls insbesondere in der Stadtforschung. Wir beschäftigen uns mit zwei zentralen Einwürfen dazu [@Yeoh01Postcolonial; @Roy09The-21st]
 
-## Sitzung am 28.06/29.06. -- Hintergrund: Can the Subaltern Speak?
+### Pflichtlektüre {.unlisted .unnumbered}
 
-Gayatri Chakravorty Spivak hat in einem Essay einen zentralen Impuls und wichtige Grundlage für diese postkoloniale Perspektive geliefert. Der Essay bildet Basis unserer Auseinandersetzung in der zweiten Sitzung des Blocks [@Spivak08Can-the]. 
+- Yeoh, Brenda S. A. 2001. Postcolonial cities. *Progress in Human Geography* 25, Nr. 3: 456--468. doi: [10.1191/030913201680191781](https://doi.org/10.1191/030913201680191781).
 
-## Sitzung am 05.07./06.07. -- Fallbeispiele
+### Referat {.unlisted .unnumbered}
 
-Was bedeutet diese Perspektive konkret? Wir diskutieren zwei Beispiele der Anwendung: Perspektiven urbaner Dekolonisierung am Beispiel Berlins [@Ha14Perspektiven] und eine Auseinandersetzung mit _Policy Mobility_ am Besipel Shen Zhen [@Zhang12From-Hon].
+- Roy, Ananya. 2009. The 21st-Century Metropolis: New Geographies of Theory. *Regional Studies* 43, Nr. 6: 819--830. doi: [10.1080/00343400701809665](https://doi.org/10.1080/00343400701809665).
 
-## Sitzung am 12.07./13.07. -- Politische Konsequenzen III - Worlding
+## Sitzung am 05.07. -- Hintergrund: Can the Subaltern Speak?
+
+Gayatri Chakravorty Spivak hat in einem Essay einen zentralen Impuls und wichtige Grundlage für diese postkoloniale Perspektive geliefert. Der Essay bildet Basis unserer Auseinandersetzung in der zweiten Sitzung des Blocks [@Spivak08Can-the].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Spivak, Gayatri Chakravorty. 2008. *Can the Subaltern Speak? Postkolonialität und subalterne Artikulation*. Wien: Turia + Kant.
+
+### Referat {.unlisted .unnumbered}
+
+- Nandi, Miriam. 2006. Gayatri Chakravorty Spivak: Übersetzungen aus anderen Welten. In: *Kultur. Theorien der Gegenwart*, hg. von Dirk Quadflieg und Stephan Moebius, 120--131. Berlin: Springer.
+
+## Sitzung am 12.07. -- Fallbeispiele
+
+Was bedeutet diese Perspektive konkret? Wir diskutieren zwei Beispiele der Anwendung: Perspektiven urbaner Dekolonisierung am Beispiel Berlins [@Ha14Perspektiven] und eine Auseinandersetzung mit der in der Stadtforschung geläufigen Idee von ‚Verdrängung‘ [@Yiftachel20From-dis].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Ha, Noa. 2014. Perspektiven urbaner Dekolonisierung: Die europäische Stadt als ‚Contact Zone'. *sub\\urban. zeitschrift für kritische stadtforschung* 2, Nr. 1: 27--48.
+
+### Referat {.unlisted .unnumbered}
+
+- Yiftachel, Oren. 2020. From displacement to displaceability. *City* 24, Nr. 1-2: 151--165. doi: [10.1080/13604813.2020.1739933](https://doi.org/10.1080/13604813.2020.1739933).
+
+## Sitzung am 19.07. -- Politische Konsequenzen III - Worlding
 
 Was bedeuten diese Analysen für praktische Politik? Wir diskutieren den Vorschlag von Tariq Jazeels für eine reflektierte Version des Kosmopolitanismus [@Jazeel11Spatiali].
 
 In dieser letzten Sitzung des Seminars reflektieren wir das Seminar und besprechen die Themenstellung der schriftlichen Hausarbeiten.
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Jazeel, Tariq. 2011. Spatializing Difference beyond Cosmopolitanism: Rethinking Planetary Futures. *Theory, Culture & Society* 28, Nr. 5: 75--97. doi: [10.1177/0263276411410447](https://doi.org/10.1177/0263276411410447).
+
+\pagebreak
