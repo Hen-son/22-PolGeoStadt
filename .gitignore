@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +38,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+=======
+.Rproj*
+.Rproj.user
+>>>>>>> b6acd41 (initiales Addieren)

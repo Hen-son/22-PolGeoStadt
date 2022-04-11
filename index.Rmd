@@ -1,0 +1,30 @@
+---
+title: "Politische Geographie und Stadt"
+\AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}}
+\usepackage{titling}
+\pretitle{\begin{center}
+\hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}}
+\posttitle{\end{center}}
+subtitle: "Masterseminar"
+affiliation: "Humboldt-Universität zu Berlin"
+author: "PD Dr. Henning Füller"
+date: "Sommersemester 2022"
+site: "bookdown::bookdown_site"
+output:
+  bookdown::gitbook:
+    lib_dir: "book_assets"
+    split_bib: yes
+    config:
+  bookdown::pdf_book:
+    keep_tex: yes
+bibliography: "/Users/fuellerh/Documents/Bibdesk/GesamtBib.bib"
+---
+
+
+# Allgemeines {-}
+
+- Seminarorganisation erfolgt über Moodle - [Politische Geographie und Stadt](https://moodle.hu-berlin.de/course/view.php?id=105118) (Einschreibeschlüssel: UrbanQuestion)
+
+- Das Seminar findet wöchentlich Dienstags von 13:15 Uhr bis 16:45 Uhr statt. Wir treffen uns im virtuellen Seminarraum mittels Zoom - [Virtueller Seminarraum Politische Geographie und Stadt](https://moodle.hu-berlin.de/mod/zoom/view.php?id=2822640&forceview=1)
+
+- Als unterstützendes Whiteboard für die Visualisierung der Diskussion nutzen wir das [Miroboard - Politische Geographie und Stadt](https://miro.com/app/board/o9J_lKgQTzE=/)

@@ -1,0 +1,5 @@
+book_filename: "StadtPol"
+language:
+  ui:
+    chapter_name: "Block "
+delete_merged_file: false
