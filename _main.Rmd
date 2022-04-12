@@ -1,0 +1,277 @@
+---
+title: "Politische Geographie und Stadt"
+header-includes:
+  \AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}}
+  \AtBeginDocument{\renewcommand{\abstractname}{Ort und Zeit}}
+  \usepackage{titling}
+  \usepackage[ngerman]{babel}
+  \pretitle{\begin{center}
+  \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}}
+  \posttitle{\end{center}}
+
+subtitle: "Vertiefungsseminar Master Urbane Geographien"
+affiliation: "Humboldt-Universität zu Berlin"
+author: "PD Dr. Henning Füller"
+date: "Sommersemester 2022"
+abstract: "wöchentlich, Dienstag 13:15 Uhr - 16:45 Uhr, Raum 2'108 (Rudower Chaussee 16)"
+lang: de
+output:
+  bookdown::pdf_book:
+    keep_tex: true
+    latex_engine: xelatex
+    pandoc_args: [--wrap=none]
+  bookdown::html_book:
+urlcolor: blue
+
+delete_merged_file: true
+bibliography: "/Users/fuellerh/Documents/Bibdesk/GesamtBib.bib"
+---
+
+
+# Allgemeines {-}
+
+- Seminarorganisation erfolgt über Moodle - [Politische Geographie und Stadt](https://moodle.hu-berlin.de/course/view.php?id=110334#) (Einschreibeschlüssel: UrbanQuestion)
+
+- Das Seminar findet wöchentlich Dienstags von 13:15 Uhr bis 16:45 Uhr statt. Wir treffen uns in Präsenz im  Seminarraum Rudower Chaussee 16, Raum 2'108. Für Notfälle halten wir uns die Option eines [Virtuellen Seminarraums ](https://moodle.hu-berlin.de/mod/zoom/view.php?id=2822640&forceview=1) offen.
+
+- Als unterstützendes Whiteboard für die Visualisierung der Diskussion nutzen wir das [Miroboard - Politische Geographie und Stadt](https://miro.com/app/board/uXjVO938_ew=/?share_link_id=791375936145)
+
+<!--chapter:end:index.Rmd-->
+
+# Zielsetzung {.unlisted .unnumbered}
+
+Raum ist politisch — das ist im Bezug auf Stadt besonders offensichtlich. Die Stadt ist aber auch ein exzellentes Beispiel, und den Zusammenhang von Raum und Macht grundsätzlicher zu verstehen. In dem theoretisch orientierten Seminar vertiefen wir gemeinsam unser Verständnis der Politischen Geographie am Beispiel des Städtischen. Ziel ist es, Begriffe und Ansätze für die eigene kritische Perspektive auf Stadtentwicklung und städtische Prozesse zu schärfen. Die Politische Geographie bietet hier vor allem einen Ausgangspunkt, das Verhältnis von Stadt, Raum und Macht jenseits von Stadtpolitik und Verwaltung im engeren Sinn wahrzunehmen.
+
+1. **Stadt -- Gesellschaft**
+   Zum einen ist die Stadt eine privilegierte Arena für gesellschaftliche Machtverhältnisse und zugleich für Emanzipation und Widerstand. Beispielsweise hat der Zugriff auf ‚lebenswerte‘ städtische Räume wachsende Bedeutung in einer zunehmend auf kognitiv-kulturelle Wertschöpfung orientierten Ökonomie (Scott 2014; Rossi and Di Bella 2017). Dadurch bekommen die Konflikte um städtische Räume eine neue Brisanz (Mayer 2014). Teils wird das ‚Right to the City‘ als der zentrale strategischer Angriffspunkt sozialer Bewegungen gegen herrschende Verhältnisse propagiert (Harvey 2012). Worin liegen Potentiale und Grenzen einer solchen, von gesellschaftlichen Strukturen her argumentierenden Stadtforschung?
+
+2. **Stadt -- Assemblage**
+   Ein ganz anderer Vorschlag geht dahin, die Relationen und Verschränkungen von Menschen und Nicht-menschlichem für ein Verständnis des Politischen stärker in Rechnung zu stellen Eine solche relationale Ontologie wird als ein vielversprechender Ausgangspunkt gerade auch in der Stadtforschung diskutiert (Färber 2014; McFarlane 2011). Welche neuen Perspektiven eröffnet der Urban Assemblage Ansatz? Was gerät aus dem Blick?
+
+3. **Stadt -- Epistemologie**
+   Neben einer Auseinandersetzung mit der politischen Relevanz des Städtischen bedeutet eine machtsensible Perspektive zum zweiten auch eine Auseinandersetzung mit der Stadtforschung selbst und ihren Konzepten. Vor allem aus einer postkolonialen Perspektive werden zuletzt die Scheuklappen aber auch die eurozentrische Tendenz einer universalisierenden Perspektive auf Stadt nach westlichem Muster betont (Robinson 2006). Kann es angesichts dieser Kritik noch eine allgemeine Theorie der Stadt geben? Wie lässt sich eine Stadtforschung betreiben, die übergreifende Machtwirkungen nicht ignoriert ohne zu universalisieren (Hörning 2018)? Was lässt sich aus der politischen Geographie für eine reflektierte kritische Stadtforschung lernen?
+
+Das Vertiefungsseminar bedeutet in der Hauptsache Lektüre und Auseinandersetzung mit Texten. Ziel ist es, Orientierung über zentrale Debatten zu bekommen, wichtige Begriffe und Ansätze zu verstehen und exemplarische Anwendungen zu diskutieren. Die Diskussion der Texte wird zentral über schriftliche Ausarbeitungen organisiert. Anhand von Lektüreimpulsen erstellen sie jede Woche einen kurzen Kommentar zu der Pflichtlektüre. Zu jedem Thema wir es einen ergänzenden Input geben, der Hintergründe oder wichtiges zusätzliches Material beibringt.
+
+### Literatur zum Einstieg {.unlisted .unnumbered}
+* Stadt - Gesellschaft: Harvey, David. 2013. *Rebellische Städte. Vom Recht auf Stadt zur urbanen Revolution*. Berlin: Suhrkamp.
+* Stadt - Assemblage: McFarlane, Colin. 2011. Assemblage and critical urbanism. *City* 15, Nr. 2: 204–224.
+* Stadt - Epistemologie: Roy, Ananya. 2009. The 21st-Century Metropolis: New Geographies of Theory. *Regional Studies* 43, Nr. 6: 819–830.
+
+<!--chapter:end:01-Zielsetzung.Rmd-->
+
+# Anforderungen {-}
+
+Als Vertiefungsseminar steht die Auseinandersetzung mit der relevanten Literatur im Zentrum. Zentrale Leistungsanforderung ist daher die regelmäßige Lektüre. Daneben ist als mündliche Leistung in einer Seminarsitzung ein mündliches Referat vorgesehen.
+
+## Überblick Leistungsanforderungen {-}
+
+1. **Pflichtlektüre**
+  Zu jeder Sitzung ist ein Text angegeben (ca. 20 - 40 Seiten). Der Text ist verpflichtend von allen zu lesen und stellt die Grundlage für die Diskussion im Seminar dar.
+
+2. **Lektüreimpuls und Kommentar**
+   Zur Pflichtlektüre ist jeweils ein Lektüreimpuls angegeben. Das sind zumeist zentrale Zitate oder Begriffe aus dem jeweiligen Text. Jede/r Teilnehmer:in formuliert für jede Woche eine kurze Antwort auf diesen Impuls. Die Antworten werden über Moodle ausgetauscht und gegenseitig kommentiert. Diese Auseinandersetzung im Vorfeld informiert und strukturiert die Diskussion im Seminar.
+
+3. **Kurzreferat**
+   Zu jeder Sitzung ist ein weiterführender Text angegeben. Die Lektüre ist empfohlen aber optional. Zu einer Sitzung bereitet jede/r Teilnehmer*in einen kurzen Input vor, der auf diesem zusätzlichen Text basiert und ggf. weitere eigene Recherche zum Thema umfasst.
+
+4. **Modulabschlussprüfung**
+   Das Modul wird mit einer Prüfung in Form einer wissenschaftlichen Hausarbeit abgeschlossen. In der Hausarbeit wird eine Aspekt der Diskussion im Seminar aufgegriffen und unter Einbezug von weiterer Literatur vertieft (25.000 - 30.000 Zeichen).
+
+\pagebreak
+
+<!--chapter:end:02-Anforderungen.Rmd-->
+
+# Einführung
+
+## Sitzung am 19.04. -- entfällt
+
+In der ersten Woche des Semesters findet keine Seminarsitzung statt. Seminarorganisation und Leistungsanforderungen und die Termine für Präsentationen der Teilnehmer:innen werden über Moodle organisiert.
+
+<!--chapter:end:03-Einführung.Rmd-->
+
+# Stadtforschung als Gesellschaftsanalyse
+
+‚Die Stadt erlaubt in besonderer Weise Einblick in die Maschinerie des globalen Kapitalismus‘ - so lässt sich eine grundlegende Idee zusammenfassen, auf der ein zentraler Strang einer politischen Geographie der Stadt basiert.
+
+
+## Sitzung am 26.04. -- Stadt als Linse
+
+In der ersten Sitzung beginnen wir den Einstieg in die ‚Stadtforschung als Gesellschaftsanalyse‘ mit dem klassischen Plädoyer für eine „Soziologie der Stadt“ durch Hartmut Häussermann und Walter Siebel [-@Haussermann13Thesen-z]. Im Referat schauen wir auf eine aktuelle Neuformulierung dieser Idee durch Saskia Sassen: „Can the sociological study of cities produce scholarship and analytic tools that help us understand the broader social transformations under way today as it once did early in the preceding century?“ [@Sassen10The-city, 4]
+
+### Pflichtlektüre {.unlisted .unnumbered}
+- Häußermann, Hartmut und Walter Siebel. 2013[1978]. Thesen zur Soziologie der Stadt. *sub\\urban. zeitschrift für kritische stadtforschung* 1, Nr. 1, 101--118.
+
+### Referat {.unlisted .unnumbered}
+
+- Sassen, Saskia. 2010. The city: Its return as a lens for social theory. *City, Culture and Society* 1, Nr. 1: 3--11. doi: [10.1016/j.ccs.2010.04.003](https://doi.org/10.1016/j.ccs.2010.04.003).
+
+
+## Sitzung am 03.05. -- Planetary Urbanisation
+
+Die zweite Sitzung beschäftigt sich mit einer Weiterführung der Idee, die Stadt als Linse für das Verständnis kapitalistischer Vergesellschaftung zu benutzen. Eine solche Präzisierung haben Neil Brenner und Christian Schmidt unter dem Titel *Planetary Urbanization* vorgeschlagen. Insbesondere geht es dabei darum, konzeptionelle Ideen Henri Lefebvres für aktuelle Analysen fruchtbar zu machen. Wir beschäftigen uns mit Brenner und Schmids Vorschlag einer „neuen Epistemologie des Urbanen“ [@Brenner15Towards] und mit einer kritischen Replik [@Walker15Building].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Brenner, Neil und Christian Schmid. 2015. Towards a new epistemology of the urban? *City* 19, Nr. 2-3: 151--182. doi: [10.1080/13604813.2015.1014712](https://doi.org/10.1080/13604813.2015.1014712).
+
+### Referat {.unlisted .unnumbered}
+
+- Walker, Richard. 2015. Building a better theory of the urban: A response to ‚Towards a new epistemology of the urban?'. *City* 19, Nr. 2-3: 183--191. doi: [10.1080/13604813.2015.1024073](https://doi.org/10.1080/13604813.2015.1024073).
+
+## Sitzung am 10.05. -- Hintergrund: Lefebvre
+
+Henri Lefebvres eigenständige und teils enigmatische Beschäftigung mit Raum als Werkzeug einer Gesellschaftsanalyse bildet eine wichtige Inspiration für das bisher Gelesene. In der dritten Sitzung setzen wir uns anhand von Ausschnitten aus seinem Buch „Revolution der Städte“  [@Lefebvre03The-Urba] und einem Kommentar [@Prigge91Die-Revo] intensiver damit auseinander.
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Lefebvre, Henri. 2014. *Die Revolution der Städte*. Hg. von Klaus Ronneberger. Frankfurt am Main: Europäische Verlagsanstalt. (Kapitel „Von der Stadt zur verstädterten Gesellschaft“)
+
+### Referat {.unlisted .unnumbered}
+
+- Prigge, Walter. 1991. Die Revolution der Städte lesen. In: *Stadt-Räume*, hg. von Martin Wentz, 99--112. Köln: Kohlhammer.
+
+## Sitzung am 17.05. -- Fallbeispiele
+
+Was kann der konkrete Gewinn sein, Stadt als Linse für eine Analyse der gegenwärtigen kapitalistischen Vergesellschaftung zu verwenden? Wir beschäftigen uns mit zwei aktuellen Anwendungsbeispielen: _Start Up Urbanismus_ [@Rossi17Start-up] und die Finanzialisierung städtischer Klimaanpassung [@Grubbauer20Stadte-d].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Rossi, Ugo und Arturo Di Bella. 2017. Start-up urbanism: New York, Rio de Janeiro and the global urbanization of technology-based economies. *Environment and Planning A* 49, Nr. 5: 999--1018. doi: [10.1177/0308518x17690153](https://doi.org/10.1177/0308518x17690153).
+
+### Referat {.unlisted .unnumbered}
+
+- Grubbauer, Monika und Hanna Hilbrandt. 2020. Städte des Globalen Südens im Fokus von Klima- und Entwicklungsfinanz. *sub\\urban. zeitschrift für kritische stadtforschung* 8, Nr. 1/2: 137--162. doi: [10.36900/suburban.v8i1/2.506](https://doi.org/10.36900/suburban.v8i1/2.506).
+
+## Sitzung am 24.05. -- Politische Konsequenzen I: Stadt als Ansatzpunkt für Kapitalismuskritik
+
+Was bedeuten die Analysen für praktische politische Intervention? Die Stadt erscheint in dieser Perspektive nicht nur als hervorragende Linse für die Analyse, sondern auch als prädestinierter Einsatzpunkt für emanzipatorische Politik. Entsprechend nimmt die Bedeutung von städtischen sozialen Bewegungen zu [@Mayer14Soziale]. Ausgeführt hat dieses Argument insbesondere David Harvey [@Harvey13Die-Kunst].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Mayer, Margit. 2014. Soziale Bewegungen in Städten -- städtische soziale Bewegungen. In: *Stadt und soziale Bewegungen*, hg. von Norbert Gestring, Renate Ruhne, und Jan Wehrheim, 25--42. Wiesbaden: Springer. doi: [10.1007/978-3-658-01398-1_2](https://doi.org/10.1007/978-3-658-01398-1_2).
+
+### Referat {.unlisted .unnumbered}
+
+- Harvey, David. 2013. Die Kunst der Rente. In: *Rebellische Städte. Vom Recht auf Stadt zur urbanen Revolution*, 163--201. Berlin: Suhrkamp.
+
+\pagebreak
+
+<!--chapter:end:04-StadtforschungGesellschaftsanalyse.Rmd-->
+
+# Stadt als soziomaterielles Gefüge
+
+Eine weitere Perspektive nimmt das Städtische ebenfalls als einen prädestinierten Fall für eine kritische Auseinandersetzung mit Gesellschaft, allerdings hier dezidiert nicht als Anwendungsfall feststehender Hypothesen sondern als Ansatzpunkt für das empirische Aufdecken sozio-materieller Ko-Produktion. Die Stadt erlaubt ein präzises Verständnis der Ko-Produktion sozialer Realität, so die Erwartung.
+
+## Sitzung am 31.05. - ANT in der Stadtforschung?
+
+Die Grundidee hier ist die fruchtbare Anwendung theoretischer Erkenntnisse aus den _Science and Technology Studies_ für die kritische Stadtforschung. In der ersten Sitzung des Blocks setzen wir uns mit einem solchen Plädoyer auseinander [@Farias16Introducing]. Das Referat vertieft das Verständnis von ANT auf Basis eines frühen klärenden Einwurfs von John Law [@Law99After-AN].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Farías, Ignacio und Anders Blok. 2016. Introducing Urban Cosmopolitics. In: *Urban Cosmopolitics*, hg. von Anders Blok und Ignacio Farías, 1--18. London: Routledge.
+
+### Referat {.unlisted .unnumbered}
+
+- Law, John. 1999. After ANT: complexity, naming and topology. *Sociological Review* 47, Nr. 1: 1--14.
+
+## Sitzung am 07.06. -- Hintergrund: Assemblage Urbanism Debatte
+
+Der Text von Farías und Blok aus der Sitzung vom 31.05 [@Farias16Introducing] nimmt unter anderem Bezug auf eine in der englischsprachigen Geographie bereits zuvor und über ein gutes Dutzend Beiträge geführte Debatte. In der zweiten Sitzung des Blocks gehen wir auf diese Debatte partiell ein. Wir beschäftigen uns mit einem kritischen Einwurf [@Brenner11Assemblage] und der Replik darauf [@McFarlane11On-conte].  
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Brenner, Neil, David J. Madden und David Wachsmuth. 2011. Assemblage urbanism and the challenges of critical urban theory. *City* 15, Nr. 2: 225--240.
+
+### Referat {.unlisted .unnumbered}
+
+- McFarlane, Colin. 2011. On context. *City* 15, Nr. 3-4: 375--388. doi: [10.1080/13604813.2011.595111](https://doi.org/10.1080/13604813.2011.595111).
+
+## Sitzung am 14.06. -- Fallbeispiele
+
+Was kann der konkrete Gewinn sein, Stadt als Erscheinungsort der Ko-Produktion sozialer Realität zu begreifen? Wir beschäftigen uns mit zwei aktuellen Anwendungsbeispielen: einem neuen Begriff von städtischer Teilhabe entlang des Zugangs zur Wasser-Infrastruktur [@Anand11PRESSURE] und einem Verständnis von Hochwasserschutz als Assemblage [@Ranganathan15Storm-Dr].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Anand, Nikhil. 2011. PRESSURE: The PoliTechnics of Water Supply in Mumbai. *Cultural Anthropology* 26, Nr. 4: 542--564.
+
+### Referat {.unlisted .unnumbered}
+
+- Ranganathan, Malini. 2015. Storm Drains as Assemblages: The Political Ecology of Flood Risk in Post-Colonial Bangalore. *Antipode* 47, Nr. 5: 1300--1320. doi: [10.1111/anti.12149](https://doi.org/10.1111/anti.12149).
+
+## Sitzung am 21.06. -- Politische Konsequenzen II - Ethnographisch Städte bauen
+
+Was bedeutet diese Vorschläge für praktische politische Intervention. Ignacio Farías fasst dies unter der Parole „ethnographisch Städte bauen“ [@Farias20Fur-eine]. Wir diskutieren diesen Vorschlag. Das Referat bringt eine klassische Übertragung der Perspektive eines ‚vitalen Materialismus‘ für die Politikwissenschaft zur Diskussion [@Bennett05The-Agen].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Farías, Ignacio. 2020. Für eine Anthropologie des Urbanismus. Ethnographisch Städte bauen. *Zeitschrift für Volkskunde* 116, Nr. 2: 171--192. doi: [10.31244/zfvk/2020/02.01](https://doi.org/10.31244/zfvk/2020/02.01).
+
+### Referat {.unlisted .unnumbered}
+
+- Bennett, Jane. 2005. The Agency of Assemblages and the North American Blackout. *Public Culture* 17, Nr. 3 (September): 445--466. doi: [10.1215/08992363-17-3-445](https://doi.org/10.1215/08992363-17-3-445).
+
+\pagebreak
+
+<!--chapter:end:05-KoProduktion_Stadt.Rmd-->
+
+# Stadt als Objekt postkolonialer Erfahrung
+
+Ein dritter Vorschlag im Schnittfeld von politischer Geographie und Stadt hebt auf die besondere Rolle der Stadt als Objekt postkolonialer Erfahrung ab. Die Art, wie Städte gebaut werden, wie sich städtische Prozesse derzeit entfalten, aber auch die Begriffe, mit denen wir die Stadt lesbar machen -- in allen Fällen ist die historische koloniale Situation und die Prädisposition westlicher Konzepte prägend.
+
+## Sitzung am 28.06. -- Eurozentrische Prämissen in der Stadtforschung
+
+Die kritische Auseinandersetzung mit impliziten Voreinstellungen war ein fruchtbarer Impuls insbesondere in der Stadtforschung. Wir beschäftigen uns mit zwei zentralen Einwürfen dazu [@Yeoh01Postcolonial; @Roy09The-21st]
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Yeoh, Brenda S. A. 2001. Postcolonial cities. *Progress in Human Geography* 25, Nr. 3: 456--468. doi: [10.1191/030913201680191781](https://doi.org/10.1191/030913201680191781).
+
+### Referat {.unlisted .unnumbered}
+
+- Roy, Ananya. 2009. The 21st-Century Metropolis: New Geographies of Theory. *Regional Studies* 43, Nr. 6: 819--830. doi: [10.1080/00343400701809665](https://doi.org/10.1080/00343400701809665).
+
+## Sitzung am 05.07. -- Hintergrund: Can the Subaltern Speak?
+
+Gayatri Chakravorty Spivak hat in einem Essay einen zentralen Impuls und wichtige Grundlage für diese postkoloniale Perspektive geliefert. Der Essay bildet Basis unserer Auseinandersetzung in der zweiten Sitzung des Blocks [@Spivak08Can-the].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Spivak, Gayatri Chakravorty. 2008. *Can the Subaltern Speak? Postkolonialität und subalterne Artikulation*. Wien: Turia + Kant.
+
+### Referat {.unlisted .unnumbered}
+
+- Nandi, Miriam. 2006. Gayatri Chakravorty Spivak: Übersetzungen aus anderen Welten. In: *Kultur. Theorien der Gegenwart*, hg. von Dirk Quadflieg und Stephan Moebius, 120--131. Berlin: Springer.
+
+## Sitzung am 12.07. -- Fallbeispiele
+
+Was bedeutet diese Perspektive konkret? Wir diskutieren zwei Beispiele der Anwendung: Perspektiven urbaner Dekolonisierung am Beispiel Berlins [@Ha14Perspektiven] und eine Auseinandersetzung mit der in der Stadtforschung geläufigen Idee von ‚Verdrängung‘ [@Yiftachel20From-dis].
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Ha, Noa. 2014. Perspektiven urbaner Dekolonisierung: Die europäische Stadt als ‚Contact Zone'. *sub\\urban. zeitschrift für kritische stadtforschung* 2, Nr. 1: 27--48.
+
+### Referat {.unlisted .unnumbered}
+
+- Yiftachel, Oren. 2020. From displacement to displaceability. *City* 24, Nr. 1-2: 151--165. doi: [10.1080/13604813.2020.1739933](https://doi.org/10.1080/13604813.2020.1739933).
+
+## Sitzung am 19.07. -- Politische Konsequenzen III - Worlding
+
+Was bedeuten diese Analysen für praktische Politik? Wir diskutieren den Vorschlag von Tariq Jazeels für eine reflektierte Version des Kosmopolitanismus [@Jazeel11Spatiali].
+
+In dieser letzten Sitzung des Seminars reflektieren wir das Seminar und besprechen die Themenstellung der schriftlichen Hausarbeiten.
+
+### Pflichtlektüre {.unlisted .unnumbered}
+
+- Jazeel, Tariq. 2011. Spatializing Difference beyond Cosmopolitanism: Rethinking Planetary Futures. *Theory, Culture & Society* 28, Nr. 5: 75--97. doi: [10.1177/0263276411410447](https://doi.org/10.1177/0263276411410447).
+
+\pagebreak
+
+<!--chapter:end:06-Postkolonial.Rmd-->
+
+# Literatur  {.unnumbered}
+
+
+
+<!--chapter:end:07-Literatur.Rmd-->
+

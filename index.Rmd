@@ -4,6 +4,7 @@ header-includes:
   \AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}}
   \AtBeginDocument{\renewcommand{\abstractname}{Ort und Zeit}}
   \usepackage{titling}
+  \usepackage[ngerman]{babel}
   \pretitle{\begin{center}
   \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}}
   \posttitle{\end{center}}
@@ -13,13 +14,12 @@ affiliation: "Humboldt-Universität zu Berlin"
 author: "PD Dr. Henning Füller"
 date: "Sommersemester 2022"
 abstract: "wöchentlich, Dienstag 13:15 Uhr - 16:45 Uhr, Raum 2'108 (Rudower Chaussee 16)"
+lang: de
 output:
   bookdown::pdf_book:
     keep_tex: true
     latex_engine: xelatex
     pandoc_args: [--wrap=none]
-  word_document:
-    reference_docx: default
 urlcolor: blue
 
 delete_merged_file: true

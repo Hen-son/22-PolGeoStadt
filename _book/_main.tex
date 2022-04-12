@@ -4,6 +4,7 @@
 \PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
+  ngerman,
 ]{article}
 \title{Politische Geographie und Stadt}
 \usepackage{etoolbox}
@@ -50,6 +51,7 @@
 \hypersetup{
   pdftitle={Politische Geographie und Stadt},
   pdfauthor={PD Dr.~Henning Füller},
+  pdflang={de},
   colorlinks=true,
   linkcolor={Maroon},
   filecolor={Maroon},
@@ -108,7 +110,17 @@
 \newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
 \newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
 \newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
-\AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}} \AtBeginDocument{\renewcommand{\abstractname}{Ort und Zeit}} \usepackage{titling} \pretitle{\begin{center} \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}} \posttitle{\end{center}}
+\AtBeginDocument{\renewcommand{\contentsname}{Seminarplan}} \AtBeginDocument{\renewcommand{\abstractname}{Ort und Zeit}} \usepackage{titling} \usepackage[ngerman]{babel} \pretitle{\begin{center} \hfill\includegraphics[width=1.5in]{husiegel.pdf}\LARGE\\\vspace{0.8cm}} \posttitle{\end{center}}
+\ifXeTeX
+  % Load polyglossia as late as possible: uses bidi with RTL langages (e.g. Hebrew, Arabic)
+  \usepackage{polyglossia}
+  \setmainlanguage[]{german}
+\else
+  \usepackage[main=ngerman]{babel}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\fi
 \ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
@@ -230,7 +242,7 @@ In der ersten Sitzung beginnen wir den Einstieg in die ‚Stadtforschung als Ges
 \hypertarget{sitzung-am-03.05.-planetary-urbanisation}{%
 \subsection{Sitzung am 03.05. -- Planetary Urbanisation}\label{sitzung-am-03.05.-planetary-urbanisation}}
 
-Die zweite Sitzung beschäftigt sich mit einer Weiterführung der Idee, die Stadt als Linse für das Verständnis kapitalistischer Vergesellschaftung zu benutzen. Eine solche Präzisierung haben Neil Brenner und Christian Schmidt unter dem Titel \emph{Planetary Urbanization} vorgeschlagen. Insbesondere geht es dabei darum, konzeptionelle Ideen Henri Lefebvres für aktuelle Analysen fruchtbar zu machen. Wir beschäftigen uns mit Brenner und Schmids Vorschlag einer „neuen Epistemologie des Urbanen`` (Brenner and Schmid 2015) und mit einer kritischen Replik (Walker 2015).
+Die zweite Sitzung beschäftigt sich mit einer Weiterführung der Idee, die Stadt als Linse für das Verständnis kapitalistischer Vergesellschaftung zu benutzen. Eine solche Präzisierung haben Neil Brenner und Christian Schmidt unter dem Titel \emph{Planetary Urbanization} vorgeschlagen. Insbesondere geht es dabei darum, konzeptionelle Ideen Henri Lefebvres für aktuelle Analysen fruchtbar zu machen. Wir beschäftigen uns mit Brenner und Schmids Vorschlag einer „neuen Epistemologie des Urbanen`` (Brenner und Schmid 2015) und mit einer kritischen Replik (Walker 2015).
 
 \hypertarget{pflichtlektuxfcre-1}{%
 \subsubsection*{Pflichtlektüre}\label{pflichtlektuxfcre-1}}
@@ -276,7 +288,7 @@ Henri Lefebvres eigenständige und teils enigmatische Beschäftigung mit Raum al
 \hypertarget{sitzung-am-17.05.-fallbeispiele}{%
 \subsection{Sitzung am 17.05. -- Fallbeispiele}\label{sitzung-am-17.05.-fallbeispiele}}
 
-Was kann der konkrete Gewinn sein, Stadt als Linse für eine Analyse der gegenwärtigen kapitalistischen Vergesellschaftung zu verwenden? Wir beschäftigen uns mit zwei aktuellen Anwendungsbeispielen: \emph{Start Up Urbanismus} (Rossi and Di Bella 2017) und die Finanzialisierung städtischer Klimaanpassung (Grubbauer and Hilbrandt 2020).
+Was kann der konkrete Gewinn sein, Stadt als Linse für eine Analyse der gegenwärtigen kapitalistischen Vergesellschaftung zu verwenden? Wir beschäftigen uns mit zwei aktuellen Anwendungsbeispielen: \emph{Start Up Urbanismus} (Rossi und Di Bella 2017) und die Finanzialisierung städtischer Klimaanpassung (Grubbauer und Hilbrandt 2020).
 
 \hypertarget{pflichtlektuxfcre-3}{%
 \subsubsection*{Pflichtlektüre}\label{pflichtlektuxfcre-3}}
@@ -329,7 +341,7 @@ Eine weitere Perspektive nimmt das Städtische ebenfalls als einen prädestinier
 \hypertarget{sitzung-am-31.05.---ant-in-der-stadtforschung}{%
 \subsection{Sitzung am 31.05. - ANT in der Stadtforschung?}\label{sitzung-am-31.05.---ant-in-der-stadtforschung}}
 
-Die Grundidee hier ist die fruchtbare Anwendung theoretischer Erkenntnisse aus den \emph{Science and Technology Studies} für die kritische Stadtforschung. In der ersten Sitzung des Blocks setzen wir uns mit einem solchen Plädoyer auseinander (Farı́as and Blok 2016). Das Referat vertieft das Verständnis von ANT auf Basis eines frühen klärenden Einwurfs von John Law (Law 1999).
+Die Grundidee hier ist die fruchtbare Anwendung theoretischer Erkenntnisse aus den \emph{Science and Technology Studies} für die kritische Stadtforschung. In der ersten Sitzung des Blocks setzen wir uns mit einem solchen Plädoyer auseinander (Farı́as und Blok 2016). Das Referat vertieft das Verständnis von ANT auf Basis eines frühen klärenden Einwurfs von John Law (Law 1999).
 
 \hypertarget{pflichtlektuxfcre-5}{%
 \subsubsection*{Pflichtlektüre}\label{pflichtlektuxfcre-5}}
@@ -352,7 +364,7 @@ Die Grundidee hier ist die fruchtbare Anwendung theoretischer Erkenntnisse aus d
 \hypertarget{sitzung-am-07.06.-hintergrund-assemblage-urbanism-debatte}{%
 \subsection{Sitzung am 07.06. -- Hintergrund: Assemblage Urbanism Debatte}\label{sitzung-am-07.06.-hintergrund-assemblage-urbanism-debatte}}
 
-Der Text von Farías und Blok aus der Sitzung vom 31.05 (Farı́as and Blok 2016) nimmt unter anderem Bezug auf eine in der englischsprachigen Geographie bereits zuvor und über ein gutes Dutzend Beiträge geführte Debatte. In der zweiten Sitzung des Blocks gehen wir auf diese Debatte partiell ein. Wir beschäftigen uns mit einem kritischen Einwurf (Brenner, Madden, and Wachsmuth 2011) und der Replik darauf (McFarlane 2011).
+Der Text von Farías und Blok aus der Sitzung vom 31.05 (Farı́as und Blok 2016) nimmt unter anderem Bezug auf eine in der englischsprachigen Geographie bereits zuvor und über ein gutes Dutzend Beiträge geführte Debatte. In der zweiten Sitzung des Blocks gehen wir auf diese Debatte partiell ein. Wir beschäftigen uns mit einem kritischen Einwurf (Brenner, Madden, und Wachsmuth 2011) und der Replik darauf (McFarlane 2011).
 
 \hypertarget{pflichtlektuxfcre-6}{%
 \subsubsection*{Pflichtlektüre}\label{pflichtlektuxfcre-6}}
@@ -369,7 +381,7 @@ Der Text von Farías und Blok aus der Sitzung vom 31.05 (Farı́as and Blok 2016
 \begin{itemize}
 \tightlist
 \item
-  McFarlane, Colin. 2011. On context. \emph{City} 15, Nr. 3-4: 375--388. \url{doi:\%5B10.1080/13604813.2011.595111}{]}(\url{https://doi.org/10.1080/13604813.2011.595111}).
+  McFarlane, Colin. 2011. On context. \emph{City} 15, Nr. 3-4: 375--388. doi: \href{https://doi.org/10.1080/13604813.2011.595111}{10.1080/13604813.2011.595111}.
 \end{itemize}
 
 \hypertarget{sitzung-am-14.06.-fallbeispiele}{%
@@ -392,7 +404,7 @@ Was kann der konkrete Gewinn sein, Stadt als Erscheinungsort der Ko-Produktion s
 \begin{itemize}
 \tightlist
 \item
-  Ranganathan, Malini. 2015. Storm Drains as Assemblages: The Political Ecology of Flood Risk in Post-Colonial Bangalore. \emph{Antipode} 47, Nr. 5: 1300--1320. \url{doi:\%5B10.1111/anti.12149}{]}(\url{https://doi.org/10.1111/anti.12149}).
+  Ranganathan, Malini. 2015. Storm Drains as Assemblages: The Political Ecology of Flood Risk in Post-Colonial Bangalore. \emph{Antipode} 47, Nr. 5: 1300--1320. doi: \href{https://doi.org/10.1111/anti.12149}{10.1111/anti.12149}.
 \end{itemize}
 
 \hypertarget{sitzung-am-21.06.-politische-konsequenzen-ii---ethnographisch-stuxe4dte-bauen}{%
@@ -406,7 +418,7 @@ Was bedeutet diese Vorschläge für praktische politische Intervention. Ignacio 
 \begin{itemize}
 \tightlist
 \item
-  Farías, Ignacio. 2020. Für eine Anthropologie des Urbanismus. Ethnographisch Städte bauen. \emph{Zeitschrift für Volkskunde} 116, Nr. 2: 171--192. \url{doi:\%5B10.31244/zfvk/2020/02.01}{]}(\url{https://doi.org/10.31244/zfvk/2020/02.01}).
+  Farías, Ignacio. 2020. Für eine Anthropologie des Urbanismus. Ethnographisch Städte bauen. \emph{Zeitschrift für Volkskunde} 116, Nr. 2: 171--192. doi: \href{https://doi.org/10.31244/zfvk/2020/02.01}{10.31244/zfvk/2020/02.01}.
 \end{itemize}
 
 \hypertarget{referat-8}{%
@@ -415,7 +427,7 @@ Was bedeutet diese Vorschläge für praktische politische Intervention. Ignacio 
 \begin{itemize}
 \tightlist
 \item
-  Bennett, Jane. 2005. The Agency of Assemblages and the North American Blackout. \emph{Public Culture} 17, Nr. 3 (September): 445--466. \url{doi:\%5B10.1215/08992363-17-3-445}{]}(\url{https://doi.org/10.1215/08992363-17-3-445}).
+  Bennett, Jane. 2005. The Agency of Assemblages and the North American Blackout. \emph{Public Culture} 17, Nr. 3 (September): 445--466. doi: \href{https://doi.org/10.1215/08992363-17-3-445}{10.1215/08992363-17-3-445}.
 \end{itemize}
 
 \pagebreak
@@ -436,7 +448,7 @@ Die kritische Auseinandersetzung mit impliziten Voreinstellungen war ein fruchtb
 \begin{itemize}
 \tightlist
 \item
-  Yeoh, Brenda S. A. 2001. Postcolonial cities. \emph{Progress in Human Geography} 25, Nr. 3: 456--468. \url{doi:\%5B10.1191/030913201680191781}{]}(\url{https://doi.org/10.1191/030913201680191781}).
+  Yeoh, Brenda S. A. 2001. Postcolonial cities. \emph{Progress in Human Geography} 25, Nr. 3: 456--468. doi: \href{https://doi.org/10.1191/030913201680191781}{10.1191/030913201680191781}.
 \end{itemize}
 
 \hypertarget{referat-9}{%
@@ -445,7 +457,7 @@ Die kritische Auseinandersetzung mit impliziten Voreinstellungen war ein fruchtb
 \begin{itemize}
 \tightlist
 \item
-  Roy, Ananya. 2009. The 21st-Century Metropolis: New Geographies of Theory. \emph{Regional Studies} 43, Nr. 6: 819--830. \url{doi:\%5B10.1080/00343400701809665}{]}(\url{https://doi.org/10.1080/00343400701809665}).
+  Roy, Ananya. 2009. The 21st-Century Metropolis: New Geographies of Theory. \emph{Regional Studies} 43, Nr. 6: 819--830. doi: \href{https://doi.org/10.1080/00343400701809665}{10.1080/00343400701809665}.
 \end{itemize}
 
 \hypertarget{sitzung-am-05.07.-hintergrund-can-the-subaltern-speak}{%
@@ -491,7 +503,7 @@ Was bedeutet diese Perspektive konkret? Wir diskutieren zwei Beispiele der Anwen
 \begin{itemize}
 \tightlist
 \item
-  Yiftachel, Oren. 2020. From displacement to displaceability. \emph{City} 24, Nr. 1-2: 151--165. \url{doi:\%5B10.1080/13604813.2020.1739933}{]}(\url{https://doi.org/10.1080/13604813.2020.1739933}).
+  Yiftachel, Oren. 2020. From displacement to displaceability. \emph{City} 24, Nr. 1-2: 151--165. doi: \href{https://doi.org/10.1080/13604813.2020.1739933}{10.1080/13604813.2020.1739933}.
 \end{itemize}
 
 \hypertarget{sitzung-am-19.07.-politische-konsequenzen-iii---worlding}{%
@@ -507,7 +519,7 @@ In dieser letzten Sitzung des Seminars reflektieren wir das Seminar und besprech
 \begin{itemize}
 \tightlist
 \item
-  Jazeel, Tariq. 2011. Spatializing Difference beyond Cosmopolitanism: Rethinking Planetary Futures. \emph{Theory, Culture \& Society} 28, Nr. 5: 75--97. \url{doi:\%5B10.1177/0263276411410447}{]}(\url{https://doi.org/10.1177/0263276411410447}).
+  Jazeel, Tariq. 2011. Spatializing Difference beyond Cosmopolitanism: Rethinking Planetary Futures. \emph{Theory, Culture \& Society} 28, Nr. 5: 75--97. doi: \href{https://doi.org/10.1177/0263276411410447}{10.1177/0263276411410447}.
 \end{itemize}
 
 \pagebreak
@@ -519,76 +531,76 @@ In dieser letzten Sitzung des Seminars reflektieren wir das Seminar und besprech
 \hypertarget{refs}{}
 \begin{CSLReferences}{1}{0}
 \leavevmode\vadjust pre{\hypertarget{ref-Anand11PRESSURE}{}}%
-Anand, Nikhil. 2011. {``PRESSURE: The PoliTechnics of Water Supply in Mumbai.''} \emph{Cultural Anthropology} 26 (4): 542--64.
+Anand, Nikhil. 2011. {„PRESSURE: The PoliTechnics of Water Supply in Mumbai``}. \emph{Cultural Anthropology} 26 (4): 542--64.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Bennett05The-Agen}{}}%
-Bennett, Jane. 2005. {``The Agency of Assemblages and the North American Blackout.''} \emph{Public Culture} 17 (3): 445--66. \url{https://doi.org/10.1215/08992363-17-3-445}.
+Bennett, Jane. 2005. {„The Agency of Assemblages and the North American Blackout``}. \emph{Public Culture} 17 (3): 445--66. \url{https://doi.org/10.1215/08992363-17-3-445}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Brenner11Assemblage}{}}%
-Brenner, Neil, David J. Madden, and David Wachsmuth. 2011. {``Assemblage Urbanism and the Challenges of Critical Urban Theory.''} \emph{City} 15 (2): 225--40.
+Brenner, Neil, David J. Madden, und David Wachsmuth. 2011. {„Assemblage urbanism and the challenges of critical urban theory``}. \emph{City} 15 (2): 225--40.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Brenner15Towards}{}}%
-Brenner, Neil, and Christian Schmid. 2015. {``Towards a New Epistemology of the Urban?''} \emph{City} 19 (2-3): 151--82. \url{https://doi.org/10.1080/13604813.2015.1014712}.
+Brenner, Neil, und Christian Schmid. 2015. {„Towards a new epistemology of the urban?``}. \emph{City} 19 (2-3): 151--82. \url{https://doi.org/10.1080/13604813.2015.1014712}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Farias20Fur-eine}{}}%
-Farı́as, Ignacio. 2020. {``F{ü}r Eine Anthropologie Des Urbanismus. Ethnographisch St{ä}dte Bauen.''} \emph{Zeitschrift f{ü}r Volkskunde} 116 (2): 171--92. \url{https://doi.org/10.31244/zfvk/2020/02.01}.
+Farı́as, Ignacio. 2020. {„F{ü}r eine Anthropologie des Urbanismus. Ethnographisch St{ä}dte bauen``}. \emph{Zeitschrift f{ü}r Volkskunde} 116 (2): 171--92. \url{https://doi.org/10.31244/zfvk/2020/02.01}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Farias16Introducing}{}}%
-Farı́as, Ignacio, and Anders Blok. 2016. {``Introducing Urban Cosmopolitics.''} In \emph{Urban Cosmopolitics}, edited by Anders Blok and Ignacio Farı́as, 1--18. London: Routledge.
+Farı́as, Ignacio, und Anders Blok. 2016. {„Introducing Urban Cosmopolitics``}. In \emph{Urban Cosmopolitics}, herausgegeben von Anders Blok und Ignacio Farı́as, 1--18. London: Routledge.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Grubbauer20Stadte-d}{}}%
-Grubbauer, Monika, and Hanna Hilbrandt. 2020. {``St{ä}dte Des Globalen s{ü}dens Im Fokus von Klima- Und Entwicklungsfinanz.''} \emph{Sub\textbackslash urban. Zeitschrift f{ü}r Kritische Stadtforschung} 8 (1/2): 137--62. \url{https://doi.org/10.36900/suburban.v8i1/2.506}.
+Grubbauer, Monika, und Hanna Hilbrandt. 2020. {„St{ä}dte des Globalen S{ü}dens im Fokus von Klima- und Entwicklungsfinanz``}. \emph{sub\textbackslash urban. zeitschrift f{ü}r kritische stadtforschung} 8 (1/2): 137--62. \url{https://doi.org/10.36900/suburban.v8i1/2.506}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Ha14Perspektiven}{}}%
-Ha, Noa. 2014. {``Perspektiven Urbaner Dekolonisierung: Die Europ{ä}ische Stadt Als ‚Contact Zone'.''} \emph{Sub\textbackslash urban. Zeitschrift f{ü}r Kritische Stadtforschung} 2 (1): 27--48.
+Ha, Noa. 2014. {„Perspektiven urbaner Dekolonisierung: Die europ{ä}ische Stadt als ‚Contact Zone'``}. \emph{sub\textbackslash urban. zeitschrift f{ü}r kritische stadtforschung} 2 (1): 27--48.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Harvey13Die-Kunst}{}}%
-Harvey, David. 2013. {``Die Kunst Der Rente.''} In \emph{Rebellische St{ä}dte. Vom Recht Auf Stadt Zur Urbanen Revolution}, 163--201. Berlin: Suhrkamp.
+Harvey, David. 2013. {„Die Kunst der Rente``}. In \emph{Rebellische St{ä}dte. Vom Recht auf Stadt zur urbanen Revolution}, 163--201. Berlin: Suhrkamp.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Haussermann13Thesen-z}{}}%
-Häußermann, Hartmut, and Walter Siebel. 2013 {[}1978{]}. {``Thesen Zur Soziologie Der Stadt.''} \emph{Sub\textbackslash urban. Zeitschrift f{ü}r Kritische Stadtforschung} 1 (1): 101--18.
+Häußermann, Hartmut, und Walter Siebel. 2013 {[}1978{]}. {„Thesen zur Soziologie der Stadt``}. \emph{sub\textbackslash urban. zeitschrift f{ü}r kritische stadtforschung} 1 (1): 101--18.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Jazeel11Spatiali}{}}%
-Jazeel, Tariq. 2011. {``Spatializing Difference Beyond Cosmopolitanism: Rethinking Planetary Futures.''} \emph{Theory, Culture {\&} Society} 28 (5): 75--97. \url{https://doi.org/10.1177/0263276411410447}.
+Jazeel, Tariq. 2011. {„Spatializing Difference beyond Cosmopolitanism: Rethinking Planetary Futures``}. \emph{Theory, Culture {\&} Society} 28 (5): 75--97. \url{https://doi.org/10.1177/0263276411410447}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Law99After-AN}{}}%
-Law, John. 1999. {``After ANT: Complexity, Naming and Topology.''} \emph{Sociological Review} 47 (1): 1--14.
+Law, John. 1999. {„After ANT: complexity, naming and topology``}. \emph{Sociological Review} 47 (1): 1--14.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Lefebvre03The-Urba}{}}%
-Lefebvre, Henri. 2003. \emph{The Urban Revolution}. Edited by Robert Bononno. Minneapolis und London: University of Minnesota Press.
+Lefebvre, Henri. 2003. \emph{The Urban Revolution}. Herausgegeben von Robert Bononno. Minneapolis und London: University of Minnesota Press.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Mayer14Soziale}{}}%
-Mayer, Margit. 2014. {``Soziale Bewegungen in St{ä}dten -- St{ä}dtische Soziale Bewegungen.''} In \emph{Stadt Und Soziale Bewegungen}, edited by Norbert Gestring, Renate Ruhne, and Jan Wehrheim, 25--42. Wiesbaden: Springer. https://doi.org/\url{https://doi.org/10.1007/978-3-658-01398-1_2}.
+Mayer, Margit. 2014. {„Soziale Bewegungen in St{ä}dten -- st{ä}dtische soziale Bewegungen``}. In \emph{Stadt und soziale Bewegungen}, herausgegeben von Norbert Gestring, Renate Ruhne, und Jan Wehrheim, 25--42. Wiesbaden: Springer. https://doi.org/\url{https://doi.org/10.1007/978-3-658-01398-1_2}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-McFarlane11On-conte}{}}%
-McFarlane, Colin. 2011. {``On Context.''} \emph{City} 15 (3-4): 375--88. \url{https://doi.org/10.1080/13604813.2011.595111}.
+McFarlane, Colin. 2011. {„On context``}. \emph{City} 15 (3-4): 375--88. \url{https://doi.org/10.1080/13604813.2011.595111}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Prigge91Die-Revo}{}}%
-Prigge, Walter. 1991. {``Die {Revolution} Der {St{ä}dte} Lesen.''} In \emph{Stadt-r{ä}ume}, edited by Martin Wentz, 99--112. K{ö}ln: Kohlhammer.
+Prigge, Walter. 1991. {„Die {Revolution} der {St{ä}dte} lesen``}. In \emph{Stadt-R{ä}ume}, herausgegeben von Martin Wentz, 99--112. K{ö}ln: Kohlhammer.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Ranganathan15Storm-Dr}{}}%
-Ranganathan, Malini. 2015. {``Storm Drains as Assemblages: The Political Ecology of Flood Risk in Post-Colonial Bangalore.''} \emph{Antipode} 47 (5): 1300--1320. \url{https://doi.org/10.1111/anti.12149}.
+Ranganathan, Malini. 2015. {„Storm Drains as Assemblages: The Political Ecology of Flood Risk in Post-Colonial Bangalore``}. \emph{Antipode} 47 (5): 1300--1320. \url{https://doi.org/10.1111/anti.12149}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Rossi17Start-up}{}}%
-Rossi, Ugo, and Arturo Di Bella. 2017. {``Start-up Urbanism: New York, Rio de Janeiro and the Global Urbanization of Technology-Based Economies.''} \emph{Environment and Planning A} 49 (5): 999--1018. \url{https://doi.org/10.1177/0308518x17690153}.
+Rossi, Ugo, und Arturo Di Bella. 2017. {„Start-up urbanism: New York, Rio de Janeiro and the global urbanization of technology-based economies``}. \emph{Environment and Planning A} 49 (5): 999--1018. \url{https://doi.org/10.1177/0308518x17690153}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Roy09The-21st}{}}%
-Roy, Ananya. 2009. {``The 21st-Century Metropolis: New Geographies of Theory.''} \emph{Regional Studies} 43 (6): 819--30. \url{https://doi.org/10.1080/00343400701809665}.
+Roy, Ananya. 2009. {„The 21st-Century Metropolis: New Geographies of Theory``}. \emph{Regional Studies} 43 (6): 819--30. \url{https://doi.org/10.1080/00343400701809665}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Sassen10The-city}{}}%
-Sassen, Saskia. 2010. {``The City: Its Return as a Lens for Social Theory.''} \emph{City, Culture and Society} 1 (1): 3--11. \url{https://doi.org/10.1016/j.ccs.2010.04.003}.
+Sassen, Saskia. 2010. {„The city: Its return as a lens for social theory``}. \emph{City, Culture and Society} 1 (1): 3--11. \url{https://doi.org/10.1016/j.ccs.2010.04.003}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Spivak08Can-the}{}}%
-Spivak, Gayatri Chakravorty. 2008. \emph{Can the Subaltern Speak? Postkolonialit{ä}t Und Subalterne Artikulation}. Wien: Turia + Kant.
+Spivak, Gayatri Chakravorty. 2008. \emph{Can the Subaltern Speak? Postkolonialit{ä}t und subalterne Artikulation}. Wien: Turia + Kant.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Walker15Building}{}}%
-Walker, Richard. 2015. {``Building a Better Theory of the Urban: A Response to {`Towards a New Epistemology of the Urban?'}.''} \emph{City} 19 (2-3): 183--91. \url{https://doi.org/10.1080/13604813.2015.1024073}.
+Walker, Richard. 2015. {„Building a better theory of the urban: A response to {‚Towards a new epistemology of the urban?`}``}. \emph{City} 19 (2-3): 183--91. \url{https://doi.org/10.1080/13604813.2015.1024073}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Yeoh01Postcolonial}{}}%
-Yeoh, Brenda S. A. 2001. {``Postcolonial Cities.''} \emph{Progress in Human Geography} 25 (3): 456--68. \url{https://doi.org/10.1191/030913201680191781}.
+Yeoh, Brenda S. A. 2001. {„Postcolonial cities``}. \emph{Progress in Human Geography} 25 (3): 456--68. \url{https://doi.org/10.1191/030913201680191781}.
 
 \leavevmode\vadjust pre{\hypertarget{ref-Yiftachel20From-dis}{}}%
-Yiftachel, Oren. 2020. {``From Displacement to Displaceability.''} \emph{City} 24 (1-2): 151--65. \url{https://doi.org/10.1080/13604813.2020.1739933}.
+Yiftachel, Oren. 2020. {„From displacement to displaceability``}. \emph{City} 24 (1-2): 151--65. \url{https://doi.org/10.1080/13604813.2020.1739933}.
 
 \end{CSLReferences}
 
